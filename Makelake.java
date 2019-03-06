@@ -21,7 +21,14 @@ public class Makelake{
 			int rs = Integer.parseInt(sys.next());
 			int cs = Integer.parseInt(sys.next());
 			int ds = Integer.parseInt(sys.next());
-			
+			int max = farm[rs][cs];
+			for(int i = -1; i <= 1; i++){
+				for(int j = -1; j <= 1; j++){
+					if(rs + i < r && cs + j < j){
+						int 
+					}
+				}
+			}
 		}
 	}
 }
