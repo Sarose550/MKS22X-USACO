@@ -17,7 +17,7 @@ public class USACO{
 			}
 		}
 		//initializes the array
-		while(sys.hasNextLine()){
+		while(sys.hasNext()){
 			int rs = Integer.parseInt(sys.next()) - 1;
 			int cs = Integer.parseInt(sys.next()) - 1;
 			int ds = Integer.parseInt(sys.next());
